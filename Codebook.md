@@ -33,12 +33,3 @@ Codebook
     ## 29           lipl32    factor                          Positivo/Negativo
     ## 30              COI    factor                                           
     ## 31    observaciones character
-
-Including Plots
----------------
-
-You can also embed plots, for example:
-
-![](Codebook_files/figure-markdown_github/pressure-1.png)<!-- -->
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
