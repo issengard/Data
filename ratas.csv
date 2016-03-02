@@ -1,122 +1,122 @@
-id;muestreo;fecha;nro.trampa;tipo.trampa;sitio;sector;especie;edad;cc1;cc2;peso;largo.total;cola;cuerpo;pata;oreja;sexo;testiculos;v.seminales;vagina;mamas;gestante;cicatrices.utero;fetos;heridas;lipl32;COI;observaciones
-av01;1;18/9/2014;costa4;t;alto.verde;borde;rattus.norvegicus;a;3;3;500;45;20;25;37;18;f;;;p;d;s;;10;n;;;
-av02;2;25/3/2015;j1;s;alto.verde;centro;mus.musculus;a;4;3;15.7;16.4;8.5;7.9;20.5;15;m;e;d;;;n;;0;n;;;
-av03;2;25/3/2015;g3;s;alto.verde;centro;mus.musculus;a;3;2;18.3;17.5;8.4;9.1;20.2;15;m;e;d;;;n;;0;n;;;
-av04;2;26/3/2015;h5;s;alto.verde;centro;mus.musculus;j;3;2;15.6;13.3;8.4;4.9;20.5;15.3;f;;;c;d;n;n;0;n;;;
-av05;2;26/3/2015;h2;s;alto.verde;centro;mus.musculus;s;3;2;11.5;14.4;7.4;7;15;13;f;;;c;n;n;n;0;n;;;
-av06;2;26/3/2015;g5;s;alto.verde;centro;mus.musculus;a;3;2;17.3;16;7.5;8.5;21;12;f;;;;n;s;;6;n;;;
-av07;3;30/9/2015;e3;s;alto.verde;centro;mus.musculus;a;3;2;10.9;14.1;7.6;6.5;16.6;12.2;f;;;p;n;n;n;0;n;;;Útero inflamado
-av08;3;30/9/2015;d1;s;alto.verde;centro;mus?;a;1;1;11;17.1;9.7;7.4;21.8;12.7;f;;;p;d;s;;3;s;;;
-av09;3;30/9/2015;b2;s;alto.verde;centro;mus.musculus;a;3;2;15.5;15.4;7.9;7.5;17.7;13.4;f;;;p;d;s;;6;s;;;
-av10;3;1/10/2015;b4;s;alto.verde;centro;mus.musculus;a;3;2;15.1;16.4;8.9;7.5;17.1;12.3;m;e;d;;;n;;0;n;;;
-av11;3;1/10/2015;l3;s;alto.verde;borde;calomys?;a;2;2;23.7;19.7;11.4;8.3;24.2;13.1;m;e;d;;;n;;0;n;;;
-av12;3;1/10/2015;l5;s;alto.verde;borde;calomys?;a;4;2;14.8;19.4;11.5;7.9;23.3;12.7;f;;;p;n;n;n;0;n;;;
-av13;3;2/10/2015;b3;s;alto.verde;centro;mus.musculus;j;2;1;4.5;11.1;6.3;4.8;16.5;8.4;f;;;c;n;n;n;0;n;;;
-av14;3;2/10/2015;a5;s;alto.verde;centro;mus.musculus;a;2;1;18.4;17.9;9.7;8.2;17.8;15;m;e;d;;;n;;0;n;;;
-av15;3;2/10/2015;b4;s;alto.verde;centro;mus?;a;3;2;18.8;19.1;11.3;7.8;23.3;13.4;m;e;d;;;n;;0;n;;;
-av16;3;2/10/2015;l3;s;alto.verde;borde;calomys?;s;4;2;16.9;18.3;10.6;7.7;23.4;14.4;m;a;n;;;n;;0;n;;;
-av17;3;2/10/2015;l1;s;alto.verde;borde;calomys?;s;3;3;23.6;20.8;12.3;8.5;25.8;13.7;m;e;n;;;n;;0;n;;;
-cs01;1;25/9/2014;l3;s;colastine.sur;centro;thylamys.pulchellus;a;2;2;18.9;19.4;10.5;8.9;15;14;f;;;;n;n;;0;n;;;
-cs02;2;19/3/2015;e2;s;colastine.sur;borde;scapteromys.aquaticus;s;4;4;136.8;32.7;16;16.7;36;23;m;e;d;;;n;;0;n;;;
-cs03;2;20/3/2015;d2;s;colastine.sur;borde;oligoryzomys;a;2;2;19.5;19.2;11;8.2;25;15;f;;;c;d;s;;4;n;;;
-cs04;2;20/3/2015;a2;s;colastine.sur;borde;mus.musculus;a;4;3;17.8;17;8.6;8.4;22;15.2;m;e;d;;;n;;0;n;;;
-cs05;3;25/9/2015;c4;s;colastine.sur;borde;oligoryzomys;a;2;2;17.5;19.5;11.4;8.1;23.95;13.6;m;e;d;;;n;;0;n;;;
-cs06;3;25/9/2015;a2;s;colastine.sur;borde;akodon?;a;;;20.6;16.2;7.7;8.5;16.35;14;f;;;c;d;n;s;0;n;;;Tapón vaginal, hepatomegalia
-cs07;3;25/9/2015;a5;s;colastine.sur;borde;oligoryzomys;a;2;2;10.6;17.6;10.6;7;23.1;14.4;f;;;p;n;s;;0;n;;;primeras etapas de gestación
-cs08;3;25/9/2015;l5;s;colastine.sur;natural;thylamys.pulchellus;a;1;1;12.9;19.2;10.6;8.6;14.4;15.7;m;e;;;;n;;0;n;;;
-cs09;3;25/9/2015;e2;s;colastine.sur;borde;scapteromys?;a;3;2;143.8;31.1;14.9;16.2;35.9;18.55;m;e;d;;;n;;0;n;;;
-cs10;3;25/9/2015;a4;s;colastine.sur;borde;oligoryzomys;a;1;1;14.6;19.7;11.5;8.2;21.8;13.8;m;e;d;;;n;;0;n;;;
-cs11;3;25/9/2015;g3;s;colastine.sur;centro;oligoryzomys;a;3;2;12.4;18.4;10.7;7.7;22.4;13.1;f;;;p;n;n;n;0;n;;;
-cs12;3;25/9/2015;b4;t;colastine.sur;borde;cavia.aperea;s;2;2;314.8;25.3;;25.3;42;24.15;m;a;n;;;n;;0;s;;;
-cs13;3;26/9/2015;l2;s;colastine.sur;natural;holochilus;a;;;163.9;35.2;17.5;17.7;42.7;17.45;m;e;;;;n;;0;n;;;
-cs14;3;26/9/2015;i1;s;colastine.sur;centro;oligoryzomys;j;2;2;9;16;9.3;6.7;21.8;12.2;f;;;c;n;n;n;0;n;;;
-cs15;3;26/9/2015;g3;s;colastine.sur;centro;oligoryzomys;a;3;2;18.1;19.4;11.5;7.9;22.05;13.1;m;e;d;;;n;;0;n;;;
-cs16;3;26/9/2015;b1;t;colastine.sur;borde;cavia.aperea;a;2;2;492.8;27.7;;27.7;47.2;21.35;m;e;d;;;n;;0;s;;;
-cs17;3;26/9/2015;d2;t;colastine.sur;borde;rattus?;a;1;1;178.3;42.3;22.1;20.2;33.8;21.1;m;e;d;;;n;;0;s;;;
-cs18;3;27/9/2015;k2;t;colastine.sur;natural;cavia.aperea;a;1;2;586.2;28.6;;28.6;44.1;26.1;f;;;c;d;s;;3;s;;;fetos en estado avanzado
-cs19;3;27/9/2015;m4;s;colastine.sur;natural;scapteromys.aquaticus;a;2;2;101.9;28.9;14;14.9;39.15;21.1;f;;;p;n;n;n;0;s;;;
-cs20;3;27/9/2015;c1;s;colastine.sur;borde;oligoryzomys;s;2;1;16.7;18.1;10.3;7.8;21.8;11.4;f;;;c;n;n;n;0;n;;;
-cs21;3;27/9/2015;b1;s;colastine.sur;borde;oligoryzomys;a;1;1;11.9;17.8;10.1;7.7;22.2;13.1;f;;;p;n;s;;4;n;;;
-cs22;3;27/9/2015;e2;s;colastine.sur;borde;scapteromys.aquaticus;a;1;1;109.4;31.5;15.5;16;36.1;19.15;f;;;p;d;n;n;0;s;;;
-cs23;3;27/9/2015;c4;s;colastine.sur;borde;akodon.azarae;s;3;2;18.2;15.4;7;8.4;18.8;14.2;f;;;c;n;n;n;0;n;;;
-cs24;3;27/9/2015;b2;s;colastine.sur;borde;oligoryzomys;a;1;1;19.6;20.2;12;8.2;24.2;14.1;m;e;d;;;n;;0;n;;;
-cs25;3;27/9/2015;h5;s;colastine.sur;centro;oligoryzomys;a;3;2;10;16.7;10.1;6.6;21.35;13.5;f;;;p;n;n;n;0;n;;;muerto en la trampa
-lz01;1;30/9/2014;h2;s;los.zapallos;borde;akodon.azarae;a;2;2;19;16;7.2;8.8;17;16;f;;;p;n;s;;0;n;;;Gestación en etapas tempranas?
-lz02;1;30/9/2014;g3;s;los.zapallos;borde;akodon.azarae;a;2;2;17.5;15.9;7.4;8.5;16;13;m;e;d;;;n;;0;n;;;
-lz03;1;30/9/2014;o5;s;los.zapallos;natural;oligoryzomys.nigripes;j;2;2;13;17.5;10.5;7;22;15;f;;;c;n;n;n;0;n;;;
-lz04;1;30/9/2014;d3;s;los.zapallos;centro;rattus?;s;3;3;106;30;13.5;16.5;29;21;m;;;;;n;;0;n;;;
-lz05;1;30/9/2014;d4;s;los.zapallos;centro;rattus?;s;3;3;99.2;29;14;15;32;21;f;;;c;n;n;n;0;n;;;
-lz06;1;30/9/2014;b3;s;los.zapallos;centro;rattus?;s;3;2;119.6;32.5;15.7;16.8;32;22;m;e;d;;;n;;0;n;;;
-lz07;1;30/9/2014;e4;s;los.zapallos;centro;rattus?;a;3;3;126.5;31.2;14.5;16.7;33;23;f;;;p;n;s;;3;n;;;
-lz08;1;30/9/2014;a2;s;los.zapallos;centro;rattus?;s;3;2;85;27.8;13;14.8;33;21;f;;;c;n;n;n;0;n;;;
-lz09;1;30/9/2014;e1;s;los.zapallos;centro;rattus?;a;2;2;184.2;31;13;18;34.6;22.7;f;;;p;n;s;;4;n;;;
-lz10;1;30/9/2014;d2;s;los.zapallos;centro;rattus?;s;3;3;143;32;14.4;17.6;34.5;22;f;;;c;n;n;n;0;n;;;
-lz11;1;30/9/2014;c4;t;los.zapallos;centro;rattus?;s;3;3;96.8;29.5;13.3;16.2;33.3;21;f;;;c;n;n;n;0;n;;;
-lz12;1;30/9/2014;o4;t;los.zapallos;natural;rattus?;a;3;3;112;30;13.5;16.5;34;21;m;;d;;;n;;0;n;;;
-lz13;1;1/10/2014;o5;t;los.zapallos;natural;scapteromys.aquaticus;s;2;2;53.9;23;10.5;12.5;30;19;f;;;c;n;s;n;0;n;;;Gestación en etapas tempranas?
-lz14;1;1/10/2014;d1;s;los.zapallos;centro;rattus?;a;3;3;101.5;29.5;13;16.5;34;20;m;e;d;;;n;;0;n;;;
-lz15;1;1/10/2014;b3;s;los.zapallos;centro;rattus?;a;3;3;108;29.8;14;15.8;34;21;f;;;c;n;s;n;0;n;;;Útero irrigado
-lz16;1;1/10/2014;m1;s;los.zapallos;natural;akodon.azarae;a;4;4;31.6;17.1;7.3;9.8;18;15;m;a;d;;;n;;0;n;;;
-lz17;1;1/10/2014;d2;s;los.zapallos;centro;rattus?;a;3;4;104.6;29.4;14.2;15.2;33;18;m;e;d;;;n;;0;n;;;
-lz18;1;1/10/2014;b2;s;los.zapallos;centro;rattus?;a;3;2;94.2;31.5;15;16.5;35;19;f;;;p;n;s;n;0;n;;;Útero irrigado
-lz19;1;1/10/2014;b5;s;los.zapallos;centro;rattus?;a;4;4;173;32.5;15;17.5;36;20;f;;;p;d;s;;6;s;n;;
-lz20;1;1/10/2014;c2;s;los.zapallos;centro;rattus?;a;3;3;108.8;34;15.5;18.5;35;17;f;;;p;n;n;s;0;n;;;
-lz21;1;1/10/2014;d5;t;los.zapallos;centro;rattus?;s;3;3;100;29.5;14.5;15;33;24;f;;;c;n;n;n;0;n;;;
-lz22;1;2/10/2014;h4;s;los.zapallos;borde;akodon.azarae;a;3;2;27.6;17.7;8.3;9.4;21;15;f;;;p;n;s;;5;n;;;
-lz23;1;2/10/2014;g2;s;los.zapallos;borde;akodon.azarae;s;4;3;16.9;15;6.7;8.3;18;14;f;;;p;n;n;n;0;n;;;
-lz24;1;2/10/2014;l4;s;los.zapallos;natural;oligoryzomys;a;4;4;15.9;19.8;11.8;8;23;14;f;;;c;n;s;;4;n;;;Gestación en etapas tempranas
-lz25;1;2/10/2014;e1;t;los.zapallos;centro;rattus?;a;2;2;104.5;30;13.5;16.5;36;19;m;e;d;;;n;;0;n;;;
-lz26;1;2/10/2014;b4;s;los.zapallos;centro;scapteromys.aquaticus;j;2;3;54;24.3;12;12.3;33;20;f;;;c;n;n;n;0;n;;;
-lz27;1;2/10/2014;b5;t;los.zapallos;centro;rattus?;a;3;4;84.3;31;14.5;16.5;36;21;f;;;p;n;n;n;0;n;;;
-lz28;1;2/10/2014;b2;s;los.zapallos;centro;rattus?;a;3;2;130.1;32.1;15.5;16.6;36;25;m;e;d;;;n;;0;n;;;
-lz29;1;2/10/2014;f5;s;los.zapallos;borde;akodon.azarae;s;4;3;23.6;17.5;8;9.5;20;13;m;a;n;;;n;;0;n;;;
-lz30;2;8/4/2015;d5;s;los.zapallos;centro;rattus?;a;2;2;130.4;31;14.5;16.5;41;25.2;m;e;d;;;n;;0;n;;;
-lz31;2;8/4/2015;a3;s;los.zapallos;centro;scapteromys.aquaticus;s;4;3;52.6;23;11;12;30;20;f;;;c;n;n;n;0;n;;;
-lz32;2;8/4/2015;n3;s;los.zapallos;borde;scapteromys.aquaticus;s;3;3;76.2;26.5;12.5;14;35.5;25.15;f;;;c;n;n;n;0;n;;;
-lz33;2;8/4/2015;o1;s;los.zapallos;borde;akodon.azarae;a;4;3;22.8;15.9;7;8.9;20.5;15.1;m;e;d;;;n;;0;n;;;
-lz34;2;8/4/2015;d4;t;los.zapallos;centro;rattus?;a;2;2;174.6;33;14.5;18.5;45.2;20;f;;;p;d;s;s;3;n;;;
-lz35;2;8/4/2015;n1;s;los.zapallos;borde;scapteromys.aquaticus;s;3;2;71.3;26.4;12;14.4;42;20.5;m;a;n;;;n;;0;n;;;
-lz36;2;9/4/2015;b5;s;los.zapallos;centro;rattus?;a;4;3;169.5;32.4;14;18.4;40.15;20.5;m;e;d;;;n;;0;n;;;
-lz37;2;9/4/2015;a4;s;los.zapallos;centro;rattus?;s;4;3;105;29.8;14;15.8;35;20.5;m;a;n;;;n;;0;n;;;
-lz38;2;9/4/2015;c2;s;los.zapallos;centro;rattus?;j;3;2;90.3;27.3;13.5;13.8;40.2;20;m;a;n;;;n;;0;n;;;
-lz39;2;9/4/2015;d3;s;los.zapallos;centro;scapteromys.aquaticus;s;2;2;55.1;23.1;11;12.1;30;20.1;f;;;p;n;n;n;0;n;;;
-lz40;2;9/4/2015;e4;s;los.zapallos;centro;rattus?;a;4;3;120.5;30;14;16;40.15;20;f;;;p;n;n;s;0;s;n;;
-lz41;2;9/4/2015;d2;s;los.zapallos;centro;rattus?;a;3;3;121.9;30.5;14;16.5;40;20.5;m;e;d;;;n;;0;n;;;
-lz42;2;10/4/2015;l1;s;los.zapallos;borde;akodon.azarae;s;4;3;14;14;6;8;20.5;15.1;m;a;n;;;n;;0;s;n;;Cola cortada
-lz43;3;6/10/2015;m2;s;los.zapallos;centro;scapteromys.aquaticus;s;2;2;90.9;30.2;14.8;15.4;34.4;19.1;f;;;c;n;n;n;0;n;;;
-lz44;3;6/10/2015;m4;s;los.zapallos;centro;scapteromys.aquaticus;a;3;2;154.3;32.8;15.7;17.1;36.4;20.4;m;e;d;;;n;;0;n;;;
-lz45;3;6/10/2015;c1;s;los.zapallos;borde;akodon.azarae;j;1;1;9.2;12;5.5;6.5;17.4;11.8;m;a;n;;;n;;0;n;;;
-lz46;3;6/10/2015;o1;s;los.zapallos;centro;scapteromys.aquaticus;a;3;2;148.4;32.3;14.7;17.6;38.1;19.75;m;e;d;;;n;;0;n;;;
-lz47;3;6/10/2015;l2;s;los.zapallos;centro;scapteromys.aquaticus;a;1;2;138.8;31.4;15.1;16.3;36.4;21.5;m;e;d;;;n;;0;s;;;
-lz48;3;6/10/2015;h2;s;los.zapallos;natural;akodon.azarae;s;3;2;19.6;15.7;7.3;8.4;18.8;12.9;f;;;c;n;n;n;0;n;;;
-lz49;3;6/10/2015;j2;s;los.zapallos;natural;akodon.azarae;a;3;2;23.7;16.3;7.2;9.1;20.3;12.6;m;e;d;;;n;;0;s;;;
-lz50;3;6/10/2015;a2;s;los.zapallos;borde;akodon.azarae;a;4;2;24.3;16.9;7.5;9.4;19.6;14.8;m;e;d;;;n;;0;n;;;Un testículo abdominal y el otro escrotal
-lz51;3;6/10/2015;i2;s;los.zapallos;natural;oligoryzomys;a;2;1;16.8;19.3;11.4;7.9;24.1;13.3;m;a;d;;;n;;0;n;;;
-lz52;3;6/10/2015;c3;s;los.zapallos;borde;akodon.azarae;a;2;2;21.2;13.6;5.2;8.4;19;12.7;m;e;d;;;n;;0;n;;;
-lz53;3;6/10/2015;l3;s;los.zapallos;centro;cavia.aperea;a;2;2;481.6;28.5;;28.5;39;25.2;m;e;;;;n;;0;n;;;
-lz54;3;6/10/2015;i3;s;los.zapallos;natural;akodon.azarae;a;3;2;23.1;16.9;8;8.9;19.9;13.1;f;;;p;n;s;;4;n;;;
-lz55;3;6/10/2015;l4;s;los.zapallos;centro;scapteromys.aquaticus;a;1;1;135.2;33.2;16.3;16.9;35.1;19.6;m;e;d;;;n;;0;n;;;El hígado quedó 24hs fuera del freezer
-lz56;3;6/10/2015;l4;t;los.zapallos;centro;scapteromys?;a;1;2;132;25.2;7.7;17.5;36.1;22.2;m;e;d;;;n;;0;s;;;Cola cortada, hígado sin vesícula, especie dudosa
-lz57;3;6/10/2015;l5;t;los.zapallos;centro;scapteromys?;a;2;1;119;30.8;14.6;16.2;35.5;22.6;m;e;d;;;n;;0;n;;;Especie dudosa
-lz58;3;6/10/2015;k4;t;los.zapallos;centro;scapteromys?;a;2;1;117.4;32;14.7;17.3;37.4;24.3;f;;;p;n;n;n;0;n;;;Especie dudosa
-lz59;3;6/10/2015;m5;t;los.zapallos;centro;scapteromys?;a;2;1;134.6;28.1;10.2;17.9;35.1;20.3;f;;;p;d;n;s;0;s;;;Cola cortada, especie dudosa
-lz60;3;6/10/2015;k3;t;los.zapallos;centro;scapteromys?;s;1;1;90.4;28;13.1;14.9;34.9;21.6;m;e;n;;;n;;0;s;;;Especie dudosa
-lz61;3;7/10/2015;b2;s;los.zapallos;borde;oligoryzomys;a;3;2;11.1;16.9;10.3;6.6;20.1;13.1;f;;;p;n;s;;0;n;;;Tapón vaginal
-lz62;3;7/10/2015;l5;s;los.zapallos;centro;scapteromys.aquaticus;a;1;1;127.6;32.4;15.3;17.1;37.7;22.9;m;e;d;;;n;;0;s;;;Se tomó el peso de la carcasa
-lz63;3;7/10/2015;n3;s;los.zapallos;centro;scapteromys.aquaticus;a;2;1;155.2;29.7;12.5;17.2;36.35;22.45;m;e;d;;;n;;0;s;;;Pata, oreja y hocico lastimados, cola cortada
-lz64;3;7/10/2015;i2;s;los.zapallos;natural;oligoryzomys;a;3;2;10.5;17.2;10.1;7.1;20.75;13.9;f;;;p;n;n;n;0;n;;;Cola quebrada, herida vieja
-lz65;3;7/10/2015;j5;s;los.zapallos;natural;akodon.azarae;a;2;2;23.7;16.9;7.3;9.6;18.15;12.75;m;e;d;;;n;;0;n;;;
-lz66;3;7/10/2015;h5;s;los.zapallos;natural;akodon.azarae;a;4;2;23.4;15.8;7.2;8.6;19.4;15.2;m;e;d;;;n;;0;n;;;Cola quebrada, grasa abdominal
-lz67;3;7/10/2015;a2;s;los.zapallos;borde;akodon.azarae;a;3;2;24.9;17.4;7.2;10.2;18.15;14.1;m;e;d;;;n;;0;n;;;Un testículo abdominal y el otro testículo escrotal
-lz68;3;7/10/2015;o6;;los.zapallos;centro;rattus?;a;2;2;105.9;35.7;19;16.7;31.5;20.7;f;;;p;d;s;;0;s;;;Encontrada muerta cerca de o3, orejas y hocico lastimados, hígado parasitado
-lz69;3;7/10/2015;m2;s;los.zapallos;centro;scapteromys.aquaticus;a;2;2;115.5;29.8;13.4;16.4;34.15;22.9;f;;;p;n;n;n;0;n;;;
-lz70;3;7/10/2015;l4;s;los.zapallos;centro;scapteromys.aquaticus;a;;;132.3;30.4;14.3;16.1;36.6;21.1;m;e;d;;;n;;0;n;;;
-lz71;3;7/10/2015;k5;s;los.zapallos;centro;scapteromys.aquaticus;a;1;1;115.2;30.1;14.2;15.9;33.3;21.7;f;;;p;d;n;s;0;n;;;Bazo reducido
-lz72;3;8/10/2015;m4;t;los.zapallos;centro;scapteromys.aquaticus;a;1;2;103.2;29.4;13.9;15.5;34.55;21.5;f;;;p;n;n;n;0;n;;;
-lz73;3;8/10/2015;k3;t;los.zapallos;centro;scapteromys.aquaticus;a;2;2;129.6;32.7;15.2;17.5;37.45;22.95;m;e;d;;;n;;0;n;;;
-lz74;3;8/10/2015;o3;s;los.zapallos;centro;scapteromys.aquaticus;a;2;2;136.3;31.4;14.6;16.8;34.7;22.1;f;;;p;d;n;n;0;s;;;
-lz75;3;8/10/2015;l3;t;los.zapallos;centro;cavia.aperea;a;2;2;447.9;27.2;;27.2;40.9;23.95;m;e;d;;;n;;0;s;;;
-lz76;3;8/10/2015;e1;s;los.zapallos;borde;oligoryzomys;s;2;2;8.5;16.5;10.2;6.3;22.9;13.65;f;;;c;n;n;n;0;n;;;
-lz77;3;8/10/2015;g2;s;los.zapallos;natural;akodon.azarae;a;4;2;23.9;16.9;8;8.9;19.65;13.3;m;e;d;;;n;;0;n;;;
-lz78;3;8/10/2015;f1;s;los.zapallos;borde;akodon.azarae;j;3;2;8.5;12.4;5.7;6.7;18.5;14.9;f;;;c;n;n;n;0;n;;;
-lz79;3;8/10/2015;j1;s;los.zapallos;borde;akodon.azarae;j;2;2;10;12.8;5.7;7.1;18.3;10.1;f;;;c;n;n;n;0;n;;;
+"id","muestreo","fecha","nro.trampa","tipo.trampa","sitio","sector","especie","edad","cc1","cc2","BCS","peso","largo.total","cola","cuerpo","BMI","pata","oreja","sexo","testiculos","v.seminales","vagina","mamas","gestante","cicatrices.utero","fetos","heridas","lipl32","COI","observaciones"
+"av01","1",2014-09-18,"costa4","t","alto.verde","borde","rattus.norvegicus","a",3,3,3,500,45,20,25,1.93,37,18,"f","","","p","d","s","",10,"n","",NA,""
+"av02","2",2015-03-25,"j1","s","alto.verde","centro","mus.musculus","a",4,3,3.5,15.7,16.4,8.5,7.9,1.33,20.5,15,"m","e","d","","","n","",0,"n","",NA,""
+"av03","2",2015-03-25,"g3","s","alto.verde","centro","mus.musculus","a",3,2,2.5,18.3,17.5,8.4,9.1,1.32,20.2,15,"m","e","d","","","n","",0,"n","",NA,""
+"av04","2",2015-03-26,"h5","s","alto.verde","centro","mus.musculus","j",3,2,2.5,15.6,13.3,8.4,4.9,1.73,20.5,15.3,"f","","","c","d","n","n",0,"n","",NA,""
+"av05","2",2015-03-26,"h2","s","alto.verde","centro","mus.musculus","s",3,2,2.5,11.5,14.4,7.4,7,1.26,15,13,"f","","","c","n","n","n",0,"n","",NA,""
+"av06","2",2015-03-26,"g5","s","alto.verde","centro","mus.musculus","a",3,2,2.5,17.3,16,7.5,8.5,1.33,21,12,"f","","","","n","s","",6,"n","",NA,""
+"av07","3",2015-09-30,"e3","s","alto.verde","centro","mus.musculus","a",3,2,2.5,10.9,14.1,7.6,6.5,1.28,16.6,12.2,"f","","","p","n","n","n",0,"n","",NA,"Útero inflamado"
+"av08","3",2015-09-30,"d1","s","alto.verde","centro","mus?","a",1,1,1,11,17.1,9.7,7.4,1.2,21.8,12.7,"f","","","p","d","s","",3,"s","",NA,""
+"av09","3",2015-09-30,"b2","s","alto.verde","centro","mus.musculus","a",3,2,2.5,15.5,15.4,7.9,7.5,1.36,17.7,13.4,"f","","","p","d","s","",6,"s","",NA,""
+"av10","3",2015-10-01,"b4","s","alto.verde","centro","mus.musculus","a",3,2,2.5,15.1,16.4,8.9,7.5,1.35,17.1,12.3,"m","e","d","","","n","",0,"n","",NA,""
+"av11","3",2015-10-01,"l3","s","alto.verde","borde","calomys?","a",2,2,2,23.7,19.7,11.4,8.3,1.5,24.2,13.1,"m","e","d","","","n","",0,"n","",NA,""
+"av12","3",2015-10-01,"l5","s","alto.verde","borde","calomys?","a",4,2,3,14.8,19.4,11.5,7.9,1.3,23.3,12.7,"f","","","p","n","n","n",0,"n","",NA,""
+"av13","3",2015-10-02,"b3","s","alto.verde","centro","mus.musculus","j",2,1,1.5,4.5,11.1,6.3,4.8,0.96,16.5,8.4,"f","","","c","n","n","n",0,"n","",NA,""
+"av14","3",2015-10-02,"a5","s","alto.verde","centro","mus.musculus","a",2,1,1.5,18.4,17.9,9.7,8.2,1.38,17.8,15,"m","e","d","","","n","",0,"n","",NA,""
+"av15","3",2015-10-02,"b4","s","alto.verde","centro","mus?","a",3,2,2.5,18.8,19.1,11.3,7.8,1.43,23.3,13.4,"m","e","d","","","n","",0,"n","",NA,""
+"av16","3",2015-10-02,"l3","s","alto.verde","borde","calomys?","s",4,2,3,16.9,18.3,10.6,7.7,1.39,23.4,14.4,"m","a","n","","","n","",0,"n","",NA,""
+"av17","3",2015-10-02,"l1","s","alto.verde","borde","calomys?","s",3,3,3,23.6,20.8,12.3,8.5,1.48,25.8,13.7,"m","e","n","","","n","",0,"n","",NA,""
+"cs01","1",2014-09-25,"l3","s","colastine.sur","centro","thylamys.pulchellus","a",2,2,2,18.9,19.4,10.5,8.9,1.34,15,14,"f","","","","n","n","",0,"n","",NA,""
+"cs02","2",2015-03-19,"e2","s","colastine.sur","borde","scapteromys.aquaticus","s",4,4,4,136.8,32.7,16,16.7,1.75,36,23,"m","e","d","","","n","",0,"n","",NA,""
+"cs03","2",2015-03-20,"d2","s","colastine.sur","borde","oligoryzomys","a",2,2,2,19.5,19.2,11,8.2,1.41,25,15,"f","","","c","d","s","",4,"n","",NA,""
+"cs04","2",2015-03-20,"a2","s","colastine.sur","borde","mus.musculus","a",4,3,3.5,17.8,17,8.6,8.4,1.35,22,15.2,"m","e","d","","","n","",0,"n","",NA,""
+"cs05","3",2015-09-25,"c4","s","colastine.sur","borde","oligoryzomys","a",2,2,2,17.5,19.5,11.4,8.1,1.37,23.95,13.6,"m","e","d","","","n","",0,"n","",NA,""
+"cs06","3",2015-09-25,"a2","s","colastine.sur","borde","akodon?","a",NA,NA,NA,20.6,16.2,7.7,8.5,1.41,16.35,14,"f","","","c","d","n","s",0,"n","",NA,"Tapón vaginal, hepatomegalia"
+"cs07","3",2015-09-25,"a5","s","colastine.sur","borde","oligoryzomys","a",2,2,2,10.6,17.6,10.6,7,1.21,23.1,14.4,"f","","","p","n","s","",0,"n","",NA,"primeras etapas de gestación"
+"cs08","3",2015-09-25,"l5","s","colastine.sur","natural","thylamys.pulchellus","a",1,1,1,12.9,19.2,10.6,8.6,1.19,14.4,15.7,"m","e","","","","n","",0,"n","",NA,""
+"cs09","3",2015-09-25,"e2","s","colastine.sur","borde","scapteromys?","a",3,2,2.5,143.8,31.1,14.9,16.2,1.78,35.9,18.55,"m","e","d","","","n","",0,"n","",NA,""
+"cs10","3",2015-09-25,"a4","s","colastine.sur","borde","oligoryzomys","a",1,1,1,14.6,19.7,11.5,8.2,1.27,21.8,13.8,"m","e","d","","","n","",0,"n","",NA,""
+"cs11","3",2015-09-25,"g3","s","colastine.sur","centro","oligoryzomys","a",3,2,2.5,12.4,18.4,10.7,7.7,1.23,22.4,13.1,"f","","","p","n","n","n",0,"n","",NA,""
+"cs12","3",2015-09-25,"b4","t","colastine.sur","borde","cavia.aperea","s",2,2,2,314.8,25.3,NA,25.3,1.78,42,24.15,"m","a","n","","","n","",0,"s","",NA,""
+"cs13","3",2015-09-26,"l2","s","colastine.sur","natural","holochilus","a",NA,NA,NA,163.9,35.2,17.5,17.7,1.77,42.7,17.45,"m","e","","","","n","",0,"n","",NA,""
+"cs14","3",2015-09-26,"i1","s","colastine.sur","centro","oligoryzomys","j",2,2,2,9,16,9.3,6.7,1.16,21.8,12.2,"f","","","c","n","n","n",0,"n","",NA,""
+"cs15","3",2015-09-26,"g3","s","colastine.sur","centro","oligoryzomys","a",3,2,2.5,18.1,19.4,11.5,7.9,1.4,22.05,13.1,"m","e","d","","","n","",0,"n","",NA,""
+"cs16","3",2015-09-26,"b1","t","colastine.sur","borde","cavia.aperea","a",2,2,2,492.8,27.7,NA,27.7,1.87,47.2,21.35,"m","e","d","","","n","",0,"s","",NA,""
+"cs17","3",2015-09-26,"d2","t","colastine.sur","borde","rattus?","a",1,1,1,178.3,42.3,22.1,20.2,1.72,33.8,21.1,"m","e","d","","","n","",0,"s","",NA,""
+"cs18","3",2015-09-27,"k2","t","colastine.sur","natural","cavia.aperea","a",1,2,1.5,586.2,28.6,NA,28.6,1.9,44.1,26.1,"f","","","c","d","s","",3,"s","",NA,"fetos en estado avanzado"
+"cs19","3",2015-09-27,"m4","s","colastine.sur","natural","scapteromys.aquaticus","a",2,2,2,101.9,28.9,14,14.9,1.71,39.15,21.1,"f","","","p","n","n","n",0,"s","",NA,""
+"cs20","3",2015-09-27,"c1","s","colastine.sur","borde","oligoryzomys","s",2,1,1.5,16.7,18.1,10.3,7.8,1.37,21.8,11.4,"f","","","c","n","n","n",0,"n","",NA,""
+"cs21","3",2015-09-27,"b1","s","colastine.sur","borde","oligoryzomys","a",1,1,1,11.9,17.8,10.1,7.7,1.21,22.2,13.1,"f","","","p","n","s","",4,"n","",NA,""
+"cs22","3",2015-09-27,"e2","s","colastine.sur","borde","scapteromys.aquaticus","a",1,1,1,109.4,31.5,15.5,16,1.69,36.1,19.15,"f","","","p","d","n","n",0,"s","",NA,""
+"cs23","3",2015-09-27,"c4","s","colastine.sur","borde","akodon.azarae","s",3,2,2.5,18.2,15.4,7,8.4,1.36,18.8,14.2,"f","","","c","n","n","n",0,"n","",NA,""
+"cs24","3",2015-09-27,"b2","s","colastine.sur","borde","oligoryzomys","a",1,1,1,19.6,20.2,12,8.2,1.41,24.2,14.1,"m","e","d","","","n","",0,"n","",NA,""
+"cs25","3",2015-09-27,"h5","s","colastine.sur","centro","oligoryzomys","a",3,2,2.5,10,16.7,10.1,6.6,1.22,21.35,13.5,"f","","","p","n","n","n",0,"n","",NA,"muerto en la trampa"
+"lz01","1",2014-09-30,"h2","s","los.zapallos","borde","akodon.azarae","a",2,2,2,19,16,7.2,8.8,1.35,17,16,"f","","","p","n","s","",0,"n","",NA,"Gestación en etapas tempranas?"
+"lz02","1",2014-09-30,"g3","s","los.zapallos","borde","akodon.azarae","a",2,2,2,17.5,15.9,7.4,8.5,1.34,16,13,"m","e","d","","","n","",0,"n","",NA,""
+"lz03","1",2014-09-30,"o5","s","los.zapallos","natural","oligoryzomys.nigripes","j",2,2,2,13,17.5,10.5,7,1.32,22,15,"f","","","c","n","n","n",0,"n","",NA,""
+"lz04","1",2014-09-30,"d3","s","los.zapallos","centro","rattus?","s",3,3,3,106,30,13.5,16.5,1.66,29,21,"m","","","","","n","",0,"n","",NA,""
+"lz05","1",2014-09-30,"d4","s","los.zapallos","centro","rattus?","s",3,3,3,99.2,29,14,15,1.7,32,21,"f","","","c","n","n","n",0,"n","",NA,""
+"lz06","1",2014-09-30,"b3","s","los.zapallos","centro","rattus?","s",3,2,2.5,119.6,32.5,15.7,16.8,1.7,32,22,"m","e","d","","","n","",0,"n","",NA,""
+"lz07","1",2014-09-30,"e4","s","los.zapallos","centro","rattus?","a",3,3,3,126.5,31.2,14.5,16.7,1.72,33,23,"f","","","p","n","s","",3,"n","",NA,""
+"lz08","1",2014-09-30,"a2","s","los.zapallos","centro","rattus?","s",3,2,2.5,85,27.8,13,14.8,1.65,33,21,"f","","","c","n","n","n",0,"n","",NA,""
+"lz09","1",2014-09-30,"e1","s","los.zapallos","centro","rattus?","a",2,2,2,184.2,31,13,18,1.8,34.6,22.7,"f","","","p","n","s","",4,"n","",NA,""
+"lz10","1",2014-09-30,"d2","s","los.zapallos","centro","rattus?","s",3,3,3,143,32,14.4,17.6,1.73,34.5,22,"f","","","c","n","n","n",0,"n","",NA,""
+"lz11","1",2014-09-30,"c4","t","los.zapallos","centro","rattus?","s",3,3,3,96.8,29.5,13.3,16.2,1.64,33.3,21,"f","","","c","n","n","n",0,"n","",NA,""
+"lz12","1",2014-09-30,"o4","t","los.zapallos","natural","rattus?","a",3,3,3,112,30,13.5,16.5,1.68,34,21,"m","","d","","","n","",0,"n","",NA,""
+"lz13","1",2014-10-01,"o5","t","los.zapallos","natural","scapteromys.aquaticus","s",2,2,2,53.9,23,10.5,12.5,1.58,30,19,"f","","","c","n","s","n",0,"n","",NA,"Gestación en etapas tempranas?"
+"lz14","1",2014-10-01,"d1","s","los.zapallos","centro","rattus?","a",3,3,3,101.5,29.5,13,16.5,1.65,34,20,"m","e","d","","","n","",0,"n","",NA,""
+"lz15","1",2014-10-01,"b3","s","los.zapallos","centro","rattus?","a",3,3,3,108,29.8,14,15.8,1.7,34,21,"f","","","c","n","s","n",0,"n","",NA,"Útero irrigado"
+"lz16","1",2014-10-01,"m1","s","los.zapallos","natural","akodon.azarae","a",4,4,4,31.6,17.1,7.3,9.8,1.51,18,15,"m","a","d","","","n","",0,"n","",NA,""
+"lz17","1",2014-10-01,"d2","s","los.zapallos","centro","rattus?","a",3,4,3.5,104.6,29.4,14.2,15.2,1.71,33,18,"m","e","d","","","n","",0,"n","",NA,""
+"lz18","1",2014-10-01,"b2","s","los.zapallos","centro","rattus?","a",3,2,2.5,94.2,31.5,15,16.5,1.62,35,19,"f","","","p","n","s","n",0,"n","",NA,"Útero irrigado"
+"lz19","1",2014-10-01,"b5","s","los.zapallos","centro","rattus?","a",4,4,4,173,32.5,15,17.5,1.8,36,20,"f","","","p","d","s","",6,"s","n",NA,""
+"lz20","1",2014-10-01,"c2","s","los.zapallos","centro","rattus?","a",3,3,3,108.8,34,15.5,18.5,1.61,35,17,"f","","","p","n","n","s",0,"n","",NA,""
+"lz21","1",2014-10-01,"d5","t","los.zapallos","centro","rattus?","s",3,3,3,100,29.5,14.5,15,1.7,33,24,"f","","","c","n","n","n",0,"n","",NA,""
+"lz22","1",2014-10-02,"h4","s","los.zapallos","borde","akodon.azarae","a",3,2,2.5,27.6,17.7,8.3,9.4,1.48,21,15,"f","","","p","n","s","",5,"n","",NA,""
+"lz23","1",2014-10-02,"g2","s","los.zapallos","borde","akodon.azarae","s",4,3,3.5,16.9,15,6.7,8.3,1.34,18,14,"f","","","p","n","n","n",0,"n","",NA,""
+"lz24","1",2014-10-02,"l4","s","los.zapallos","natural","oligoryzomys","a",4,4,4,15.9,19.8,11.8,8,1.33,23,14,"f","","","c","n","s","",4,"n","",NA,"Gestación en etapas tempranas"
+"lz25","1",2014-10-02,"e1","t","los.zapallos","centro","rattus?","a",2,2,2,104.5,30,13.5,16.5,1.66,36,19,"m","e","d","","","n","",0,"n","",NA,""
+"lz26","1",2014-10-02,"b4","s","los.zapallos","centro","scapteromys.aquaticus","j",2,3,2.5,54,24.3,12,12.3,1.59,33,20,"f","","","c","n","n","n",0,"n","",NA,""
+"lz27","1",2014-10-02,"b5","t","los.zapallos","centro","rattus?","a",3,4,3.5,84.3,31,14.5,16.5,1.58,36,21,"f","","","p","n","n","n",0,"n","",NA,""
+"lz28","1",2014-10-02,"b2","s","los.zapallos","centro","rattus?","a",3,2,2.5,130.1,32.1,15.5,16.6,1.73,36,25,"m","e","d","","","n","",0,"n","",NA,""
+"lz29","1",2014-10-02,"f5","s","los.zapallos","borde","akodon.azarae","s",4,3,3.5,23.6,17.5,8,9.5,1.4,20,13,"m","a","n","","","n","",0,"n","",NA,""
+"lz30","2",2015-04-08,"d5","s","los.zapallos","centro","rattus?","a",2,2,2,130.4,31,14.5,16.5,1.74,41,25.2,"m","e","d","","","n","",0,"n","",NA,""
+"lz31","2",2015-04-08,"a3","s","los.zapallos","centro","scapteromys.aquaticus","s",4,3,3.5,52.6,23,11,12,1.59,30,20,"f","","","c","n","n","n",0,"n","",NA,""
+"lz32","2",2015-04-08,"n3","s","los.zapallos","borde","scapteromys.aquaticus","s",3,3,3,76.2,26.5,12.5,14,1.64,35.5,25.15,"f","","","c","n","n","n",0,"n","",NA,""
+"lz33","2",2015-04-08,"o1","s","los.zapallos","borde","akodon.azarae","a",4,3,3.5,22.8,15.9,7,8.9,1.43,20.5,15.1,"m","e","d","","","n","",0,"n","",NA,""
+"lz34","2",2015-04-08,"d4","t","los.zapallos","centro","rattus?","a",2,2,2,174.6,33,14.5,18.5,1.77,45.2,20,"f","","","p","d","s","s",3,"n","",NA,""
+"lz35","2",2015-04-08,"n1","s","los.zapallos","borde","scapteromys.aquaticus","s",3,2,2.5,71.3,26.4,12,14.4,1.6,42,20.5,"m","a","n","","","n","",0,"n","",NA,""
+"lz36","2",2015-04-09,"b5","s","los.zapallos","centro","rattus?","a",4,3,3.5,169.5,32.4,14,18.4,1.76,40.15,20.5,"m","e","d","","","n","",0,"n","",NA,""
+"lz37","2",2015-04-09,"a4","s","los.zapallos","centro","rattus?","s",4,3,3.5,105,29.8,14,15.8,1.69,35,20.5,"m","a","n","","","n","",0,"n","",NA,""
+"lz38","2",2015-04-09,"c2","s","los.zapallos","centro","rattus?","j",3,2,2.5,90.3,27.3,13.5,13.8,1.72,40.2,20,"m","a","n","","","n","",0,"n","",NA,""
+"lz39","2",2015-04-09,"d3","s","los.zapallos","centro","scapteromys.aquaticus","s",2,2,2,55.1,23.1,11,12.1,1.61,30,20.1,"f","","","p","n","n","n",0,"n","",NA,""
+"lz40","2",2015-04-09,"e4","s","los.zapallos","centro","rattus?","a",4,3,3.5,120.5,30,14,16,1.73,40.15,20,"f","","","p","n","n","s",0,"s","n",NA,""
+"lz41","2",2015-04-09,"d2","s","los.zapallos","centro","rattus?","a",3,3,3,121.9,30.5,14,16.5,1.71,40,20.5,"m","e","d","","","n","",0,"n","",NA,""
+"lz42","2",2015-04-10,"l1","s","los.zapallos","borde","akodon.azarae","s",4,3,3.5,14,14,6,8,1.27,20.5,15.1,"m","a","n","","","n","",0,"s","n",NA,"Cola cortada"
+"lz43","3",2015-10-06,"m2","s","los.zapallos","centro","scapteromys.aquaticus","s",2,2,2,90.9,30.2,14.8,15.4,1.65,34.4,19.1,"f","","","c","n","n","n",0,"n","",NA,""
+"lz44","3",2015-10-06,"m4","s","los.zapallos","centro","scapteromys.aquaticus","a",3,2,2.5,154.3,32.8,15.7,17.1,1.77,36.4,20.4,"m","e","d","","","n","",0,"n","",NA,""
+"lz45","3",2015-10-06,"c1","s","los.zapallos","borde","akodon.azarae","j",1,1,1,9.2,12,5.5,6.5,1.19,17.4,11.8,"m","a","n","","","n","",0,"n","",NA,""
+"lz46","3",2015-10-06,"o1","s","los.zapallos","centro","scapteromys.aquaticus","a",3,2,2.5,148.4,32.3,14.7,17.6,1.74,38.1,19.75,"m","e","d","","","n","",0,"n","",NA,""
+"lz47","3",2015-10-06,"l2","s","los.zapallos","centro","scapteromys.aquaticus","a",1,2,1.5,138.8,31.4,15.1,16.3,1.77,36.4,21.5,"m","e","d","","","n","",0,"s","",NA,""
+"lz48","3",2015-10-06,"h2","s","los.zapallos","natural","akodon.azarae","s",3,2,2.5,19.6,15.7,7.3,8.4,1.4,18.8,12.9,"f","","","c","n","n","n",0,"n","",NA,""
+"lz49","3",2015-10-06,"j2","s","los.zapallos","natural","akodon.azarae","a",3,2,2.5,23.7,16.3,7.2,9.1,1.43,20.3,12.6,"m","e","d","","","n","",0,"s","",NA,""
+"lz50","3",2015-10-06,"a2","s","los.zapallos","borde","akodon.azarae","a",4,2,3,24.3,16.9,7.5,9.4,1.42,19.6,14.8,"m","e","d","","","n","",0,"n","",NA,"Un testículo abdominal y el otro escrotal"
+"lz51","3",2015-10-06,"i2","s","los.zapallos","natural","oligoryzomys","a",2,1,1.5,16.8,19.3,11.4,7.9,1.37,24.1,13.3,"m","a","d","","","n","",0,"n","",NA,""
+"lz52","3",2015-10-06,"c3","s","los.zapallos","borde","akodon.azarae","a",2,2,2,21.2,13.6,5.2,8.4,1.43,19,12.7,"m","e","d","","","n","",0,"n","",NA,""
+"lz53","3",2015-10-06,"l3","s","los.zapallos","centro","cavia.aperea","a",2,2,2,481.6,28.5,NA,28.5,1.84,39,25.2,"m","e","","","","n","",0,"n","",NA,""
+"lz54","3",2015-10-06,"i3","s","los.zapallos","natural","akodon.azarae","a",3,2,2.5,23.1,16.9,8,8.9,1.44,19.9,13.1,"f","","","p","n","s","",4,"n","",NA,""
+"lz55","3",2015-10-06,"l4","s","los.zapallos","centro","scapteromys.aquaticus","a",1,1,1,135.2,33.2,16.3,16.9,1.74,35.1,19.6,"m","e","d","","","n","",0,"n","",NA,"El hígado quedó 24hs fuera del freezer"
+"lz56","3",2015-10-06,"l4","t","los.zapallos","centro","scapteromys?","a",1,2,1.5,132,25.2,7.7,17.5,1.71,36.1,22.2,"m","e","d","","","n","",0,"s","",NA,"Cola cortada, hígado sin vesícula, especie dudosa"
+"lz57","3",2015-10-06,"l5","t","los.zapallos","centro","scapteromys?","a",2,1,1.5,119,30.8,14.6,16.2,1.72,35.5,22.6,"m","e","d","","","n","",0,"n","",NA,"Especie dudosa"
+"lz58","3",2015-10-06,"k4","t","los.zapallos","centro","scapteromys?","a",2,1,1.5,117.4,32,14.7,17.3,1.67,37.4,24.3,"f","","","p","n","n","n",0,"n","",NA,"Especie dudosa"
+"lz59","3",2015-10-06,"m5","t","los.zapallos","centro","scapteromys?","a",2,1,1.5,134.6,28.1,10.2,17.9,1.7,35.1,20.3,"f","","","p","d","n","s",0,"s","",NA,"Cola cortada, especie dudosa"
+"lz60","3",2015-10-06,"k3","t","los.zapallos","centro","scapteromys?","s",1,1,1,90.4,28,13.1,14.9,1.67,34.9,21.6,"m","e","n","","","n","",0,"s","",NA,"Especie dudosa"
+"lz61","3",2015-10-07,"b2","s","los.zapallos","borde","oligoryzomys","a",3,2,2.5,11.1,16.9,10.3,6.6,1.28,20.1,13.1,"f","","","p","n","s","",0,"n","",NA,"Tapón vaginal"
+"lz62","3",2015-10-07,"l5","s","los.zapallos","centro","scapteromys.aquaticus","a",1,1,1,127.6,32.4,15.3,17.1,1.71,37.7,22.9,"m","e","d","","","n","",0,"s","",NA,"Se tomó el peso de la carcasa"
+"lz63","3",2015-10-07,"n3","s","los.zapallos","centro","scapteromys.aquaticus","a",2,1,1.5,155.2,29.7,12.5,17.2,1.77,36.35,22.45,"m","e","d","","","n","",0,"s","",NA,"Pata, oreja y hocico lastimados, cola cortada"
+"lz64","3",2015-10-07,"i2","s","los.zapallos","natural","oligoryzomys","a",3,2,2.5,10.5,17.2,10.1,7.1,1.2,20.75,13.9,"f","","","p","n","n","n",0,"n","",NA,"Cola quebrada, herida vieja"
+"lz65","3",2015-10-07,"j5","s","los.zapallos","natural","akodon.azarae","a",2,2,2,23.7,16.9,7.3,9.6,1.4,18.15,12.75,"m","e","d","","","n","",0,"n","",NA,""
+"lz66","3",2015-10-07,"h5","s","los.zapallos","natural","akodon.azarae","a",4,2,3,23.4,15.8,7.2,8.6,1.47,19.4,15.2,"m","e","d","","","n","",0,"n","",NA,"Cola quebrada, grasa abdominal"
+"lz67","3",2015-10-07,"a2","s","los.zapallos","borde","akodon.azarae","a",3,2,2.5,24.9,17.4,7.2,10.2,1.38,18.15,14.1,"m","e","d","","","n","",0,"n","",NA,"Un testículo abdominal y el otro testículo escrotal"
+"lz68","3",2015-10-07,"o6","","los.zapallos","centro","rattus?","a",2,2,2,105.9,35.7,19,16.7,1.66,31.5,20.7,"f","","","p","d","s","",0,"s","",NA,"Encontrada muerta cerca de o3, orejas y hocico lastimados, hígado parasitado"
+"lz69","3",2015-10-07,"m2","s","los.zapallos","centro","scapteromys.aquaticus","a",2,2,2,115.5,29.8,13.4,16.4,1.7,34.15,22.9,"f","","","p","n","n","n",0,"n","",NA,""
+"lz70","3",2015-10-07,"l4","s","los.zapallos","centro","scapteromys.aquaticus","a",NA,NA,NA,132.3,30.4,14.3,16.1,1.76,36.6,21.1,"m","e","d","","","n","",0,"n","",NA,""
+"lz71","3",2015-10-07,"k5","s","los.zapallos","centro","scapteromys.aquaticus","a",1,1,1,115.2,30.1,14.2,15.9,1.72,33.3,21.7,"f","","","p","d","n","s",0,"n","",NA,"Bazo reducido"
+"lz72","3",2015-10-08,"m4","t","los.zapallos","centro","scapteromys.aquaticus","a",1,2,1.5,103.2,29.4,13.9,15.5,1.69,34.55,21.5,"f","","","p","n","n","n",0,"n","",NA,""
+"lz73","3",2015-10-08,"k3","t","los.zapallos","centro","scapteromys.aquaticus","a",2,2,2,129.6,32.7,15.2,17.5,1.7,37.45,22.95,"m","e","d","","","n","",0,"n","",NA,""
+"lz74","3",2015-10-08,"o3","s","los.zapallos","centro","scapteromys.aquaticus","a",2,2,2,136.3,31.4,14.6,16.8,1.74,34.7,22.1,"f","","","p","d","n","n",0,"s","",NA,""
+"lz75","3",2015-10-08,"l3","t","los.zapallos","centro","cavia.aperea","a",2,2,2,447.9,27.2,NA,27.2,1.85,40.9,23.95,"m","e","d","","","n","",0,"s","",NA,""
+"lz76","3",2015-10-08,"e1","s","los.zapallos","borde","oligoryzomys","s",2,2,2,8.5,16.5,10.2,6.3,1.16,22.9,13.65,"f","","","c","n","n","n",0,"n","",NA,""
+"lz77","3",2015-10-08,"g2","s","los.zapallos","natural","akodon.azarae","a",4,2,3,23.9,16.9,8,8.9,1.45,19.65,13.3,"m","e","d","","","n","",0,"n","",NA,""
+"lz78","3",2015-10-08,"f1","s","los.zapallos","borde","akodon.azarae","j",3,2,2.5,8.5,12.4,5.7,6.7,1.13,18.5,14.9,"f","","","c","n","n","n",0,"n","",NA,""
+"lz79","3",2015-10-08,"j1","s","los.zapallos","borde","akodon.azarae","j",2,2,2,10,12.8,5.7,7.1,1.17,18.3,10.1,"f","","","c","n","n","n",0,"n","",NA,""
