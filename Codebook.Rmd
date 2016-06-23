@@ -1,0 +1,14 @@
+---
+title: "Codebook"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r codebook, echo=F}
+codebook=read.table("codebook.txt",header=T)
+print(codebook)
+```

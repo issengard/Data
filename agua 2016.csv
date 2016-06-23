@@ -1,0 +1,61 @@
+"id","fecha y hora","latitud","longitud","sitio","tipo","comunidad","pH","turbidez","perros","ganado","basura","aves.corral","observaciones"
+"01vp","16/05/23 09:23:52",-31.64086,-60.67941,"Vuelta.del.Paraguayo","charco","periurbano",7.5,">1000","ausente","ausente","poca","ausente",
+"02vp","16/05/23 09:32:21",-31.64123,-60.67952,"Vuelta.del.Paraguayo","charco","periurbano",7.12,">1000","ausente","ausente","poca","ausente",
+"03vp","16/05/23 09:38:04",-31.64168,-60.67899,"Vuelta.del.Paraguayo","charco","periurbano",6.84,110,"ausente","presente","ausente","ausente","caballos"
+"04vp","16/05/23 09:59:18",-31.64319,-60.67895,"Vuelta.del.Paraguayo","laguna","periurbano",6.67,52,"pocos","ausente","poca","ausente",
+"05vp","16/05/23 09:50:43",-31.644,-60.67848,"Vuelta.del.Paraguayo","estanque","periurbano",7.14,8.27,"ausente","ausente","poca","ausente",
+"06vp","16/05/23 10:06:50",-31.64379,-60.67795,"Vuelta.del.Paraguayo","charco","periurbano",7.27,128,"ausente","ausente","ausente","ausente",
+"07vp","16/05/23 10:13:40",-31.64383,-60.67754,"Vuelta.del.Paraguayo","charco","periurbano",6.86,31.91,"ausente","presente","poca","ausente","huellas de caballo"
+"08vp","16/05/23 10:19:21",-31.64349,-60.67745,"Vuelta.del.Paraguayo","charco","periurbano",8.3,302,"ausente","ausente","mucha","ausente",
+"09vp","16/05/23 10:29:49",-31.64356,-60.67691,"Vuelta.del.Paraguayo","charco","periurbano",6.3,461,"ausente","ausente","ausente","ausente",
+"10vp","16/05/23 10:35:31",-31.64358,-60.67675,"Vuelta.del.Paraguayo","charco","periurbano",7.29,461,"pocos","ausente","poca","ausente",
+"11vp","16/05/23 10:41:42",-31.64361,-60.67658,"Vuelta.del.Paraguayo","charco","periurbano",7.64,6.92,"muchos","ausente","ausente","ausente",
+"12vp","16/05/23 10:47:26",-31.64383,-60.67619,"Vuelta.del.Paraguayo","charco","periurbano",8.13,279,"muchos","ausente","poca","ausente",
+"13vp","16/05/23 11:49:20",-31.6438,-60.67971,"Vuelta.del.Paraguayo","laguna","periurbano",6.7,36.74,"muchos","ausente","poca","ausente",
+"14vp","16/05/23 10:52:07",-31.64384,-60.67579,"Vuelta.del.Paraguayo","charco","periurbano",7.72,70,"muchos","ausente","poca","ausente","módulos evacuados"
+"15vp","16/05/23 11:05:46",-31.64501,-60.67934,"Vuelta.del.Paraguayo","charco","periurbano",7.68,279,"muchos","ausente","poca","ausente","módulos evacuados"
+"16vp","16/05/23 11:08:47",-31.64502,-60.67928,"Vuelta.del.Paraguayo","charco","periurbano",7.38,88,"ausente","presente","mucha","ausente","módulos evacuados"
+"17vp","16/05/23 11:14:37",-31.64563,-60.6789,"Vuelta.del.Paraguayo","charco","periurbano",6.8,450,"muchos","presente","poca","ausente","módulos evacuados"
+"18vp","16/05/23 11:24:47",-31.64494,-60.67989,"Vuelta.del.Paraguayo","charco","periurbano",6.66,39.9,"ausente","ausente","poca","ausente",
+"19vp","16/05/23 11:29:26",-31.64533,-60.68056,"Vuelta.del.Paraguayo","charco","periurbano",6.8,596,"ausente","ausente","ausente","ausente",
+"20vp","16/05/23 11:34:48",-31.64506,-60.68069,"Vuelta.del.Paraguayo","río","periurbano",6.82,24.41,"ausente","ausente","poca","ausente",
+"40cs","16/05/23 16:29:52",-31.65959,-60.60212,"Colastine.Sur","laguna","periurbano",6.87,31.52,"muchos","ausente","mucha","ausente",
+"39cs","16/05/23 16:11:24",-31.66003,-60.60004,"Colastine.Sur","río","periurbano",6.32,74,"muchos","ausente","poca","ausente",
+"38cs","16/05/23 16:04:31",-31.65968,-60.60156,"Colastine.Sur","charco","periurbano",6.69,49.61,"pocos","presente","mucha","ausente","caballos"
+"37cs","16/05/23 16:00:56",-31.66009,-60.60198,"Colastine.Sur","charco","periurbano",7.4,">1000","pocos","presente","poca","ausente","caballos"
+"36cs","16/05/23 15:48:37",-31.66,-60.607,"Colastine.Sur","zanja","urbano",6.59,118,"muchos","presente","ausente","ausente","caballos"
+"35cs","16/05/23 15:43:32",-31.66364,-60.60711,"Colastine.Sur","charco","urbano",6.8,257,"pocos","ausente","poca","ausente",
+"34cs","16/05/23 15:39:30",-31.66295,-60.60651,"Colastine.Sur","charco","urbano",7.38,444,"muchos","ausente","poca","ausente",
+"33cs","16/05/23 15:36:17",-31.66256,-60.60572,"Colastine.Sur","zanja","urbano",7.04,24.54,"pocos","ausente","poca","presente","gallinas"
+"32cs","16/05/23 15:34:34",-31.66198,-60.60533,"Colastine.Sur","charco","urbano",7.17,743,"pocos","ausente","ausente","ausente","relacionado con 31"
+"31cs","16/05/23 15:31:22",-31.662,-60.60511,"Colastine.Sur","charco","urbano",7.54,6.54,"pocos","ausente","poca","ausente",
+"30cs","16/05/23 15:28:51",-31.66203,-60.60503,"Colastine.Sur","charco","urbano",7.6,27.16,"pocos","ausente","poca","ausente",
+"29cs","16/05/23 15:22:22",-31.66239,-60.60432,"Colastine.Sur","zanja","urbano",7.8,415,"pocos","ausente","poca","presente","gallinas"
+"28cs","16/05/23 15:18:41",-31.6622,-60.60367,"Colastine.Sur","charco","urbano",6.52,33.29,"pocos","presente","poca","ausente","caballos"
+"27cs","16/05/23 15:07:28",-31.66166,-60.60337,"Colastine.Sur","zanja","urbano",8.05,57,"pocos","ausente","poca","ausente",
+"26cs","16/05/23 15:00:39",-31.66177,-60.60116,"Colastine.Sur","laguna","periurbano",6.22,33.63,"pocos","presente","poca","ausente","caballos (bosta)"
+"25cs","16/05/23 14:50:33",-31.66091,-60.60428,"Colastine.Sur","laguna","periurbano",6.82,67,"pocos","ausente","ausente","presente","gallinas y gansos"
+"24cs","16/05/23 14:47:40",-31.66065,-60.60457,"Colastine.Sur","charco","periurbano",6.56,49.22,"pocos","ausente","mucha","presente","gallinas y gansos"
+"23cs","16/05/23 14:38:14",-31.66067,-60.60461,"Colastine.Sur","laguna","periurbano",6.45,31.03,"pocos","ausente","poca","presente","gallinas"
+"22cs","16/05/23 14:34:16",-31.66027,-60.60461,"Colastine.Sur","charco","periurbano",6.38,188,"ausente","ausente","mucha","ausente","relacionado con 21"
+"21cs","16/05/23 14:29:08",-31.6604,-60.60389,"Colastine.Sur","laguna","periurbano",7.5,6.29,"pocos","ausente","poca","presente","gallinas"
+"60lz","16/05/24 10:45:57",-31.49879,-60.4474,"Los.Zapallos","charco","periurbano",7.33,64,"ausente","ausente","ausente","ausente",
+"59lz","16/05/24 10:39:32",-31.49875,-60.44701,"Los.Zapallos","charco","periurbano",7.06,555,"ausente","ausente","poca","ausente",
+"58lz","16/05/24 10:35:05",-31.49855,-60.44613,"Los.Zapallos","charco","periurbano",7.4,68,"muchos","ausente","poca","ausente",
+"57lz","16/05/24 10:32:49",-31.49884,-60.44618,"Los.Zapallos","charco","periurbano",7.5,110,"pocos","ausente","mucha","ausente",
+"56lz","16/05/24 10:32:49",-31.49884,-60.44618,"Los.Zapallos","laguna","periurbano",6.35,31.88,"pocos","ausente","mucha","ausente",
+"55lz","16/05/24 10:26:59",-31.499,-60.44581,"Los.Zapallos","laguna","periurbano",6.15,304,"pocos","ausente","mucha","ausente",
+"54lz","16/05/24 10:21:34",-31.49906,-60.44473,"Los.Zapallos","río","periurbano",6.47,60,"pocos","ausente","mucha","ausente",
+"53lz","16/05/24 10:18:04",-31.4992,-60.44499,"Los.Zapallos","charco","periurbano",6.62,13.2,"pocos","ausente","poca","ausente",
+"52lz","16/05/24 10:07:23",-31.49517,-60.44176,"Los.Zapallos","río","periurbano",6.49,14.24,"pocos","ausente","mucha","ausente",
+"51lz","16/05/24 10:01:10",-31.49482,-60.44221,"Los.Zapallos","río","periurbano",6.01,15.07,"pocos","ausente","mucha","ausente",
+"50lz","16/05/24 09:57:33",-31.49498,-60.44251,"Los.Zapallos","charco","periurbano",8.69,46.1,"pocos","ausente","mucha","ausente",
+"49lz","16/05/24 09:52:38",-31.49569,-60.44347,"Los.Zapallos","río","periurbano",7.1,15.67,"pocos","ausente","mucha","ausente",
+"48lz","16/05/24 09:50:19",-31.49565,-60.44317,"Los.Zapallos","charco","periurbano",6.86,362,"pocos","ausente","poca","ausente",
+"47lz","16/05/24 09:48:09",-31.4957,-60.4431,"Los.Zapallos","charco","periurbano",7.11,566,"pocos","ausente","poca","ausente",
+"46lz","16/05/24 09:45:51",-31.49566,-60.44277,"Los.Zapallos","charco","periurbano",7.85,92,"pocos","ausente","poca","ausente",
+"45lz","16/05/24 09:37:26",-31.49793,-60.44182,"Los.Zapallos","río","periurbano",6.55,171,"pocos","ausente","poca","ausente",
+"44lz","16/05/24 09:31:57",-31.49692,-60.44086,"Los.Zapallos","laguna","periurbano",7.2,12.68,"pocos","ausente","ausente","presente","gallinas"
+"43lz","16/05/24 09:27:21",-31.49659,-60.44208,"Los.Zapallos","laguna","periurbano",6.64,394,"pocos","ausente","ausente","presente","gallinas"
+"42lz","16/05/24 09:21:27",-31.49665,-60.44335,"Los.Zapallos","río","periurbano",6.03,34.41,"muchos","ausente","mucha","presente","gallinas"
+"41lz","16/05/24 09:16:05",-31.49615,-60.44251,"Los.Zapallos","charco","periurbano",7.05,">1000","pocos","ausente","poca","ausente",

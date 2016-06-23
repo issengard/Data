@@ -1,0 +1,9 @@
+---
+title: "Codebook"
+output: github_document
+---
+
+```{r codebook, echo=F}
+codebook=read.table("codebook.txt",header=T)
+print(codebook)
+```
