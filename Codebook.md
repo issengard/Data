@@ -18,18 +18,30 @@ Codebook
     ## 14      largo.total   numeric                            Largo total(cm)
     ## 15             cola    factor                       Largo de la cola(cm)
     ## 16           cuerpo   numeric                       Largo del cuerpo(cm)
-    ## 17              BMI   numeric Índice de masa corporal (logpeso/loglargo)
-    ## 18             pata   numeric               Largo de la pata trasera(mm)
-    ## 19            oreja   numeric                     Largo de la oreja (mm)
-    ## 20             sexo    factor                               Macho/Hembra
-    ## 21       testiculos    factor                         Abdominal/Escrotal
-    ## 22      v.seminales    factor              Desarrollada/No desarrolladas
-    ## 23           vagina    factor                          Cerrada/Perforada
-    ## 24            mamas    factor             Desarrolladas/No Desarrolladas
-    ## 25         gestante    factor                         Preñada/No preñada
-    ## 26 cicatrices.utero    factor                         Presentes/Ausentes
-    ## 27            fetos   integer                            Número de fetos
-    ## 28          heridas    factor                                      Si/No
-    ## 29           lipl32    factor                          Positivo/Negativo
-    ## 30              COI    factor                                           
-    ## 31    observaciones character
+    ## 17             pata   numeric               Largo de la pata trasera(mm)
+    ## 18            oreja   numeric                     Largo de la oreja (mm)
+    ## 19             sexo    factor                               Macho/Hembra
+    ## 20       testiculos    factor                        0= abdominal, 1= escrotal
+    ## 21      v.seminales    factor              0= no desarrolladas, 1= desarrolladas
+    ## 22           vagina    factor                        0= cerrada, 1= perforada
+    ## 23            mamas    factor             0 = no desarrolladas, 1= desarrolladas
+    ## 24         gestante    factor                        0= no preñad, 1= preñada
+    ## 25 cicatrices.utero    factor                        0= ausentes, 1= presentes
+    ## 26         fetos   integer                            Número de fetos
+    ## 27          heridas    factor                                     0= no, 1= si
+    ## 28    observaciones character
+    ## 29           lipl32    factor                          n= negativo, p= positivo
+    ## 30   secuenciacion     factor                               COI, barcode     
+    ## 31   determ.sp         character         método/s utilizado para identificar especie
+    ## 32   estado.craneo     character         estado procesamiento del cráneo
+    ## 33   estado.carcasa    character         lugar almacenamiento carcasa
+    ## 34   estado.organos    character         lugar almacenamiento órganos
+    ## 35   corazon          factor            0= usado/no encontrado, 1= disponible             ## 36   pulmon             factor            0= usado/no encontrado, 1= disponible
+    ## 37   higado              factor            0= usado/no encontrado, 1= disponible
+    ## 38   bazo            factor            0= usado/no encontrado, 1= disponible
+    ## 39   riñon1            factor            0= usado, 1= disponible
+    ## 40   riñon2            factor            0= usado/no encontrado, 1= disponible
+    ## 41   coagulo            factor            0= usado/no encontrado, 1= disponible
+    ## 42   suero           factor            0= usado/no encontrado, 1= disponible
+    ## 43   orina             factor            0= no colectada, 1= colectada
+    ## 44   fetos             factor            guardados
